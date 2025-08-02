@@ -7,9 +7,9 @@
 ## High Priority Tasks 🔴
 
 ### Immediate Setup (Week 1)
-- [ ] Create GitHub/GitLab repository
+- [x] Create GitHub repository (https://github.com/stefanus-ronald/talos_desk.git)
 - [ ] Set up CMake build system
-- [ ] Configure CI/CD pipeline (GitHub Actions/GitLab CI)
+- [ ] Configure CI/CD pipeline (GitHub Actions)
 - [ ] Create development Docker containers
 - [ ] Set up development wiki/documentation site
 - [ ] Create CONTRIBUTING.md guidelines
